@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "tale": "node src/tale.js",
+    "app": "node src/app.js"
   },
   "repository": {
     "type": "git",
